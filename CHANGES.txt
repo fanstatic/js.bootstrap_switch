@@ -1,10 +1,10 @@
 CHANGES
 *******
 
-3.3.3 (unreleased)
+3.3.4 (unreleased)
 ==================
 
-- Nothing changed yet.
+- Updated to 3.3.4.
 
 
 3.3.2 (2016-11-29)
